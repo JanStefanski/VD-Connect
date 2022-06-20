@@ -1,10 +1,9 @@
-<p style="text-align: center;">
 <img src="assets/icon/icon.png" height="256">
 
 # VD Connect
 
 [English](README.md) | [Polski](README_pl.md) | [中文](README_zh.md)
-</p>
+
 A companion app for our Raspberry Pi based workstation project. It displays the current status and parameters of the
 workstation. It also allows implementation of custom commands, that can be used to control Raspberry Pi board.
 
