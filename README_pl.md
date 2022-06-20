@@ -1,11 +1,8 @@
-<img src="assets/icon/icon.png" align="center" height="256">
-
-<p align="center">
+<img src="assets/icon/icon.png" height="256">
 
 # VD Connect
 
 [Polski](README_pl.md) | [English](README.md) | [中文](README_zh.md)
-</p>
 
 Aplkacja towarzysząca dla naszego projektu Raspberry Pi. Wyświetla aktualny status i parametry stacji roboczej. Pozwala
 na implementację niestandardowych komend, które można użyć do kontroli Raspberry Pi.
