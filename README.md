@@ -1,6 +1,5 @@
-<img src="assets/icon/icon.png" align="center" height="256">
-
-<p align="center">
+<p style="text-align: center;">
+<img src="assets/icon/icon.png" height="256">
 
 # VD Connect
 
