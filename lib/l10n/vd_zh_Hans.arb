@@ -27,5 +27,11 @@
   "theme": "主题",
   "select_theme": "选择主题",
   "theme_light": "浅色",
-  "theme_dark": "深色"
+  "theme_dark": "深色",
+  "rgb_led_switch": "RGB LED开关",
+  "rgb_led_switch_description": "RGB LED开关",
+  "rgb_led_color": "RGB LED颜色",
+  "red": "红色",
+  "green": "绿色",
+  "blue": "蓝色"
 }

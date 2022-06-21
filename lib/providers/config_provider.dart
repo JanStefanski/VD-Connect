@@ -7,6 +7,8 @@ class ConfigProvider extends ChangeNotifier {
     'connectionType': 'Wifi',
     'targetAddress': '',
     'targetPort': '25931',
+    'rgb_led_switch': false,
+    'rgb_led_color': 'red',
     'theme': ThemeMode.system,
     'languages': {
       'en': 'English',
@@ -44,7 +46,10 @@ class ConfigProvider extends ChangeNotifier {
                 : (prefs.getString(key) == 'ThemeMode.dark'
                     ? ThemeMode.dark
                     : ThemeMode.light);
-          } else {
+          } else if (key=='rgb_led_switch') {
+            _config[key] = prefs.getBool(key);
+          }
+          else {
             _config[key] = prefs.getString(key);
           }
         }

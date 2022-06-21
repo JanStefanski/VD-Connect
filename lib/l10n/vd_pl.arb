@@ -27,5 +27,11 @@
   "theme": "Motyw",
   "select_theme": "Wybierz motyw",
   "theme_light": "Jasny",
-  "theme_dark": "Ciemny"
+  "theme_dark": "Ciemny",
+  "rgb_led_switch": "RGB LED",
+  "rgb_led_switch_description": "Włącza/wyłącza RGB LED",
+  "rgb_led_color": "Kolor RGB LED",
+  "red": "Czerwony",
+  "green": "Zielony",
+  "blue": "Niebieski"
 }
