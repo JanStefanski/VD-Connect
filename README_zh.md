@@ -1,11 +1,8 @@
-<img src="assets/icon/icon.png" align="center" height="256">
-
-<p align="center">
+<img src="assets/icon/icon.png" height="256">
 
 # VD伴侣应用
 
 [中文](README_zh.md) | [English](README.md) | [Polski](README_pl.md)
-</p>
 
 这是VD连接应用程序。它是一个websocket服务器，它被设计为在Raspberry Pi上运行，并且提供VD连接应用程序与设备信息。
 
