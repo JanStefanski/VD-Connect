@@ -27,5 +27,11 @@
   "theme": "Theme",
   "select_theme": "Select Theme",
   "theme_light": "Light",
-  "theme_dark": "Dark"
+  "theme_dark": "Dark",
+  "rgb_led_switch": "RGB LED Switch",
+  "rgb_led_switch_description": "Turns on/off the RGB LED",
+  "rgb_led_color": "RGB LED Color",
+  "red": "Red",
+  "green": "Green",
+  "blue": "Blue"
 }
