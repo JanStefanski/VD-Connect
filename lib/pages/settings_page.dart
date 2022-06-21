@@ -12,7 +12,8 @@ class SettingsPage extends StatefulWidget {
 }
 
 class _SettingsPageState extends State<SettingsPage> {
-  List<String> connTypes = ['Wifi', 'Bluetooth'];
+  // List<String> connTypes = ['Wifi', 'Bluetooth']; // TODO: add working bluetooth
+  List<String> connTypes = ['Wifi'];
   String connType = "Wifi";
   String targetAddress = "";
   String targetPort = "";
